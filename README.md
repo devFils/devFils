@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I graduated in University of Derby with BSc (Hons) on Computer Science (Software Engineering).<br>✨ Creating bugs since 2018.<br>🎯 My singular life goal is to surpass yesterday's version of myself every day and to exceed my current self with each coming tomorrow.<br>🔭 I’m currently working on Repath Solutions .<br>📫 How to reach me: filippos.soultanis@hotmail.com</p>
+<p align="left">📚 I graduated in University of Derby with BSc (Hons) on Computer Science (Software Engineering).<br>✨ Creating bugs since 2018.<br>🎯 My singular life goal is to surpass yesterday's version of myself every day and to exceed my current self with each coming tomorrow.<br>🔭 I’m currently working on Repath Solutions.<br>📫 How to reach me: filippos.soultanis@hotmail.com.</p>
 
 ###
 
